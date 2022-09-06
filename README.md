@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **WEB3.0 fundamentals**
 
-- 📝 My last article on medium [https://medium.com/@nursedadiker760/arac%C4%B1lardan-kurtul-blockchain-a4252c3847e9](https://medium.com/@nursedadiker760/arac%C4%B1lardan-kurtul-blockchain-a4252c3847e9)
+- 📝 My last article on medium [Aracılardan Kurtul ve Özgürleş:Blockchain](https://medium.com/@nursedadiker760/arac%C4%B1lardan-kurtul-blockchain-a4252c3847e9)
 
 - 📫You can reach me **nursedadiker760@gmail.com**
 
