@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurseda Diker</h1>
-<h3 align="center">Jr. Full Stack Web Developer</h3>
+<h3 align="center">Jr. Backend Developer</h3>
 
 - 🌱 I’m currently learning **WEB3.0 fundamentals** and **.Net Core**
 
