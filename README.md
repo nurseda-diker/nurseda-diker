@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **WEB3.0 fundamentals** and **.Net Core**
 
-- 📝 My last article is [Aracılardan Kurtul ve Özgürleş:Blockchain?](https://medium.com/@nursedadiker760/aracılardan-kurtul-blockchain-a4252c3847e9)
-
 - 📫You can reach me **nursedadiker760@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
