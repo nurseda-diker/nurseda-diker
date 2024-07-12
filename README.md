@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nurseda Diker</h1>
 <h3 align="center">Jr. Software Developer</h3>
 
-- 🌱 I’m currently learning **Machine and Deep Learning** and **.Net Core**
+- 🌱 I’m currently learning **Machine and Deep Learning**
 
 - 📫You can reach me **nursedadiker760@gmail.com**
 
